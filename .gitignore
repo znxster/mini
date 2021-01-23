@@ -8,6 +8,7 @@ Makefile.in
 .deps/
 .dirstamp
 autom4te.cache
+build-aux
 /autoscan.log
 /autoscan-*.log
 /aclocal.m4
